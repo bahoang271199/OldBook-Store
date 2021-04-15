@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:\\HTML"
+		},
+		{
+			"path": "..\\NodeJSWebSiteBanHang"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NodeJSWebSiteBanHang"
+	}
+}
